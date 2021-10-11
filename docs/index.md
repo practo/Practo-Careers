@@ -1,6 +1,8 @@
 ## Campus Recruitment Drive 2022
 ### Updates
 
+- **\[Oct 11th, 2021 09:00 AM\]** All the registered candidates will recieve the HackerRank Test Invite on Tuesday. We will update here when the invites are sent.
+
 - **\[Oct 10th, 2021 10:00 PM\]** Registrations for the HackerRank test are now closed.
 
 - **\[Oct 07th, 2021 06:00 PM\]** Updates for the next HackerRank test will be shared with you soon.
