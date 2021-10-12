@@ -3,9 +3,12 @@
 
 #### Latest:
 
-- **\[Oct 12th, 2021 05:15 PM\]** Presidency University Students: A list of students who were successfully registered for the test has been shared with your Placement Office. Any name outside of that list is not eligible to give the test. Contact us only if your name is present in the final list and you still haven't received the test invite.
+- **\[Oct 12th, 2021 07:10 PM\]** If you're seeing the "Invite Cancelled" error, there is nothing that can be done now. Invites were cancelled at 10 mins before the mentioned deadline to avoid chaeating.
 
 #### Previous:
+
+- **\[Oct 12th, 2021 05:15 PM\]** Presidency University Students: A list of students who were successfully registered for the test has been shared with your Placement Office. Any name outside of that list is not eligible to give the test. Contact us only if your name is present in the final list and you still haven't received the test invite.
+
 
 - **\[Oct 12th, 2021 04:25 PM\]** There seems to be some confusion with registrations at Presidency University. If you have filled Practo's Registration Form, you will receive the test invite. If you have filled any other form circulated by your Placement Office, it will not be considered.
 We're reaching out to the Placement Office for clarifications.
