@@ -3,7 +3,7 @@
 
 #### Latest:
 
-- **\[Oct 12th, 2021 07:10 PM\]** If you're seeing the "Invite Cancelled" error, there is nothing that can be done now. Invites were cancelled at 10 mins before the mentioned deadline to avoid chaeating.
+- **\[Oct 12th, 2021 07:10 PM\]** If you're seeing the "Invite Cancelled" error, there is nothing that can be done now. Invites were cancelled at 10 mins before the mentioned deadline to avoid cheating.
 
 #### Previous:
 
