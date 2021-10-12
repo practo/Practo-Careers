@@ -3,7 +3,7 @@
 
 #### Latest:
 
-- **\[Oct 12th, 2021 04:25 PM\]** There seems to be some confusion with registrations at Presidency University. If you have filled Practo's Registration Form (before the deadline), your will receive the test invite. If you have filled any other form circulated by your Placement Office, it will not be considered.
+- **\[Oct 12th, 2021 04:25 PM\]** There seems to be some confusion with registrations at Presidency University. If you have filled Practo's Registration Form, you will receive the test invite. If you have filled any other form circulated by your Placement Office, it will not be considered.
 We're reaching out to the Placement Office for clarifications.
 
 #### Previous:
