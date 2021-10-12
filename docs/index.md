@@ -3,10 +3,12 @@
 
 #### Latest:
 
-- **\[Oct 12th, 2021 04:25 PM\]** There seems to be some confusion with registrations at Presidency University. If you have filled Practo's Registration Form, you will receive the test invite. If you have filled any other form circulated by your Placement Office, it will not be considered.
-We're reaching out to the Placement Office for clarifications.
+- **\[Oct 12th, 2021 05:15 PM\]** Presidency University Students: A list of students who were successfully registered for the test has been shared with your Placement Office. Any name outside of that list is not eligible to give the test. Contact us only if your name is present in the final list and you still haven't received the test invite.
 
 #### Previous:
+
+- **\[Oct 12th, 2021 04:25 PM\]** There seems to be some confusion with registrations at Presidency University. If you have filled Practo's Registration Form, you will receive the test invite. If you have filled any other form circulated by your Placement Office, it will not be considered.
+We're reaching out to the Placement Office for clarifications.
 
 - **\[Oct 12th, 2021 01:45 PM\]** HackerRank Test invites have been sent. You should receive them at your "Personal Email" address. Please check the Spam folders also. Let us know if you don't receive the invite email by 2:30 PM.
 
