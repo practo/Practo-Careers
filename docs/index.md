@@ -3,9 +3,11 @@
 
 #### Latest:
 
-- **\[Oct 14th, 2021 12:30 PM\]** Shortlisting for Interview Round 2 is done and the same will be communicated to your Placement Office by 1:00 PM. Reach out to your placement office if you don't receive the details of your time slot and Meet link. Round 2 Interviews start from 2:00 PM.
+- **\[Oct 14th, 2021 05:30 PM\]** Thank you for participating in Practo's Internship Program recruitment drive. Interviews are over and selections have been made. We will be reaching out to your college's Placement Office soon with the names of selected students.
 
 #### Previous:
+
+- **\[Oct 14th, 2021 12:30 PM\]** Shortlisting for Interview Round 2 is done and the same will be communicated to your Placement Office by 1:00 PM. Reach out to your placement office if you don't receive the details of your time slot and Meet link. Round 2 Interviews start from 2:00 PM.
 
 - **\[Oct 12th, 2021 07:10 PM\]** If you're seeing the "Invite Cancelled" error, there is nothing that can be done now. Invites were cancelled at 10 mins before the mentioned deadline to avoid cheating.
 
