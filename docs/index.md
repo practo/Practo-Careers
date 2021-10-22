@@ -3,7 +3,7 @@
 
 #### Latest:
 
-- **\[Oct 22nd, 2021 04:15 PM\]** JUET, Guna Students: We're looking into the Test invite issue. We'll update this page by 4:30 PM.
+- **\[Oct 22nd, 2021 04:15 PM\]** JUET, Guna Students: We have received zero registrations from your college. Each student was expected to fill a registration form shared by Practo. It seems that either the form was not shared with you or a different form was circulated by the PO. Since we have closed the registrations for today's test, we will try to reschedule the test on some other date.
 
 #### Previous:
 
