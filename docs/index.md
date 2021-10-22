@@ -3,8 +3,7 @@
 
 #### Latest:
 
-- **\[Oct 22nd, 2021 0:15 PM\]** JUET, Guna Students: We're looking into the Test invite issue. We'll update this page by 4:30 PM.
-
+- **\[Oct 22nd, 2021 04:15 PM\]** JUET, Guna Students: We're looking into the Test invite issue. We'll update this page by 4:30 PM.
 
 #### Previous:
 
