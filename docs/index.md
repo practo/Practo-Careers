@@ -3,9 +3,12 @@
 
 #### Latest:
 
-- **\[Oct 25th, 2021 05:30 PM\]** The 22nd Oct HackerRank Test results are out and will be communicated to your Placement Office today. If you have qualified, your one-to-one interviews have been scheduled on Wednesday 27th Oct. Round 1 will start from 10:00 AM. The exact time and Google Meet link for you will be shared with your Placement Office.
+- **\[Oct 26th, 2021 11:30 AM\]** The HackerRank Test results, interview time and the Google Meet links have been shared. If you don't have the details, please contact your Placement Office. Interviews start at 10:00 AM tomorrow (27th Oct).
 
 #### Previous:
+
+- **\[Oct 25th, 2021 05:30 PM\]** The 22nd Oct HackerRank Test results are out and will be communicated to your Placement Office today. If you have qualified, your one-to-one interviews have been scheduled on Wednesday 27th Oct. Round 1 will start from 10:00 AM. The exact time and Google Meet link for you will be shared with your Placement Office.
+
 
 - **\[Oct 22nd, 2021 04:15 PM\]** JUET, Guna Students: We have received zero registrations from your college. Each student was expected to fill a registration form shared by Practo. It seems that either the form was not shared with you or a different form was circulated by the PO. Since we have closed the registrations for today's test, we will try to reschedule the test on some other date. (This message is only for JUET Guna students)
 
