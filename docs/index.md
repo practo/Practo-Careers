@@ -3,6 +3,8 @@
 
 #### Latest:
 
+- **\[Oct 26th, 2021 08:15 PM\]** There might be a confusion for Round 2 timings: **If you get selected after Round 1** interview, your Round 2 will be scheduled at 11:00 AM. The Google Meet link will be emailed to you. (There are no interviews at 2 PM)
+
 - **\[Oct 26th, 2021 11:30 AM\]** The HackerRank Test results, interview time and the Google Meet links have been shared. If you don't have the details, please contact your Placement Office. Interviews start at 10:00 AM tomorrow (27th Oct).
 
 #### Previous:
