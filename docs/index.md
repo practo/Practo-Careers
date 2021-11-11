@@ -3,6 +3,6 @@
 
 #### Latest:
 
-- **\[Nov 08th, 2021 2:15 PM\]** Updates will be posted here soon.
+- **\[Nov 11th, 2021 5:30 PM\]** The 12th Nov (Friday) online assessment test (HackerRank) has been rescheduled to Monday (at the same time) due to logistical constraints.
 
 #### Previous:
