@@ -1,6 +1,9 @@
 ## Practo Internship Program
 ### Updates
 
+#### **\[Mar 8th, 2022 02:50 PM\]**
+  - We've received some requests for rescheduling the test. We will try to accommodate some of these requests but won't be able to accept the majority of them as the schedules are already fixed. If you miss the test, you can always re-apply in the next drive. We will keep you posted. Thanks for understanding.
+
 #### **\[Mar 8th, 2022 02:00 PM\]**
   - All invites for today's HackerRank test have been emailed. Please make sure to check your Spam folders as well.
 
